@@ -1,0 +1,12 @@
+#logoname
+{
+ font-size: 2rem;
+  font-weight: bold;
+  /* -webkit-text-stroke: .1rem  #66CC99; */
+  -webkit-text-stroke: .1rem   #66CC99;
+  color: transparent ;
+}
+#getstartedbtn:hover
+{
+  box-shadow: .21rem .21rem .2rem rgb(15, 15, 102);
+}
